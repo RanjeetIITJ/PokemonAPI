@@ -1,0 +1,11 @@
+.Navbar{
+    padding: 10px;
+    background: rgb(59, 58, 58);
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    position: sticky;
+    width: 100%;
+    top: 0;
+    /* margin-bottom: 20px; */
+}
